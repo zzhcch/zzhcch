@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hello World 👋
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Rxjs
-- 🌱 I’m currently working in Openjaw
 
 <!--
 **zzhcch/zzhcch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
